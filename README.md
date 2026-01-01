@@ -51,4 +51,4 @@ It directly led to the design and structure of my **GUI Blackjack** and **strate
 2. Run the file:
 
 ```bash
-python BlackJack-on-Python-Demo.py
+python main.py
